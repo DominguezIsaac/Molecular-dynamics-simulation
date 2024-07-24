@@ -1,1 +1,1 @@
-# Molecular-dynamics-simulation
+En este repositorio se encuentra un codigo de dinamica molecular. El codigo genera una caja tridimensional con particulas que siguen una trayectoria aleatoria segun la distribución de Maxwell-Boltzmann. Una de las paredes de la caja actua como un pistón móvil que sigue un balance entre su peso y la presión de las partículas. La posición del pistón sigue la ecuación diferencial de la segunda ley de Newton y se resuelve utilizando el algoritmo de Verlet. 
